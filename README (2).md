@@ -1,8 +1,8 @@
 # Reproducible Research Course Project 2
 
-**Jeffrey M. Hunter**
+**Yogi**
 
-April 27, 2019
+Jul 27, 2024
 
 ## Project
 
